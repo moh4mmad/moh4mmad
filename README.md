@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm **Sakib** and I am a software engineer working on web applications, web infrastructure and rest API development.
+I'm **Sakib** and a software engineer working on web applications and rest API development.
  
 Experienced in object-oriented programming, developing, testing debugging code, designing interfaces and cyber security
 
