@@ -2,6 +2,18 @@
 <p align="center">A software engineer working on web applications and rest API development.</p>
 <p align="center">Experienced in object-oriented programming, developing, testing debugging code, designing interfaces and cyber security</p>
 
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moh4mmad&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moh4mmad&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moh4mmad&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moh4mmad&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moh4mmad&theme=github_dark)
+ 
+</div>
+
 <h4 align="center">
 Language & Data:  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
@@ -25,19 +37,6 @@ Frameworks & Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 </h4>
 
-<h2 align="center">GitHub Stats</h2>
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moh4mmad&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moh4mmad&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moh4mmad&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moh4mmad&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moh4mmad&theme=github_dark)
- 
-</div>
-
- 
 <h2 align="center">Connect with me!</h2>
 
 <div align="center">
