@@ -7,6 +7,9 @@
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moh4mmad&theme=github_dark)
+
+![](https://github-readme-stats.vercel.app/api?username=moh4mmad&show_icons=true&theme=github_dark)
+	
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moh4mmad&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moh4mmad&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moh4mmad&theme=github_dark)
