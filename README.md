@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there, I'm Sakib 👋<br/></h2> 
-<p align="center">A software engineer working on web applications and rest API development.</p>
-<p align="center">Experienced in object-oriented programming, developing, testing debugging code, designing interfaces and cyber security</p>
+<p align="center">Throughout my career, I have had the opportunity to work on a wide range of projects and teams, using languages such as PHP, Python, JavaScript, and TypeScript, as well as frameworks like Laravel, Express, React, Vue, and Angular. I have a strong foundation in object-oriented programming and am experienced in developing, testing, debugging code, and designing interfaces....</p>
+<p align="center">In addition, I have a thorough understanding of cyber security best practices and always prioritize the security of my projects. I am excited to use my skills and knowledge to create innovative solutions and make a positive impact.</p>
 
 <h2 align="center">GitHub Stats</h2>
 
