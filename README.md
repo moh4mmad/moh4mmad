@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there 👋<br/></h2> 
 <p style="text-align: justify;">With over 7 years of industry experience as a software engineer, I’m passionate about creating elegant and efficient code that follows the principles of clean code. I also ensure that the systems I design and develop are scalable, maintainable, and secure, by incorporating robust DevOps practices and stringent security measures.</p>
 
-<p align="center">Skilled in:</p>
+<p align="left">Skilled in:</p>
 
 <ul>
   <li>System and Architecture design</li>
