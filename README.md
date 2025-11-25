@@ -1,5 +1,5 @@
 <h2 align="left"> Hi there 👋<br/></h2> 
-<p style="text-align: justify;">8+ years in the industry and still love solving problems with clean, maintainable code. I enjoy turning messy systems into smooth, scalable ones — and making sure everything from the backend to DevOps just clicks together.</p>
+<p style="text-align: justify;">8+ years in the industry and I still enjoy writing clean, maintainable code. I love turning messy systems into smooth, scalable ones and making sure everything from backend to DevOps, just clicks together.</p>
 
 <p align="left">Skilled in:</p>
 
